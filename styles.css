@@ -1,11 +1,11 @@
 :root{
     --primary-color: #1E90FF;
-    --secondary-color: #FF6347;
+    --secondary-color: #f02e0b;
     --background-color: #00030C;
     --text-color: #ffffff;
     --fonte-principal: 'Inter', sans-serif;
-    --botao-primeiro: #003af7;
-    --botao-segundo: #0bf832;
+    --botao-primeiro: #2448c0;
+    --botao-segundo: #f8270b;
 }
 
 * {
